@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![My Typing Experience](https://data.typeracer.com/misc/badge?user=retrogeek46)
+
 <!--
 **retrogeek46/retrogeek46** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
