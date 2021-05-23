@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+[![Retro's GitHub stats](https://github-readme-stats.vercel.app/api?username=retrogeek46)](https://github.com/retrogeek46/github-readme-stats)
+
+
 ![My Typing Experience](https://data.typeracer.com/misc/badge?user=retrogeek46)
 
 <!--
