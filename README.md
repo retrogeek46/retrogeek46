@@ -2,6 +2,9 @@
 
 ![Retro's GitHub stats](https://github-readme-stats.vercel.app/api?username=retrogeek46&show_icons=true&theme=dark)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=retrogeek46&theme=dark)
+
+![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=retrogeek46&theme=dark)
 
 ![My Typing Experience](https://data.typeracer.com/misc/badge?user=retrogeek46)
 
