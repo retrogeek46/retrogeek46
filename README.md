@@ -8,7 +8,7 @@
 
 <!-- ![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=retrogeek46&theme=dark) -->
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=retrogeek46)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=retrogeek46&theme=dark)](https://git.io/streak-stats)
 
 ![My Typing Experience](https://data.typeracer.com/misc/badge?user=retrogeek46)
 
